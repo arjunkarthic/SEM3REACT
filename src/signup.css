@@ -1,0 +1,15 @@
+.madhu1{
+    background-image: url('./photo/caproject.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:100%;
+    padding-top: 90px;
+   
+}
+.box1{
+    position: absolute;
+    left: 30%;
+}
+.avatar1{
+    background-image: url('./photo/project.jpg');
+}

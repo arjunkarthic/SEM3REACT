@@ -1,0 +1,18 @@
+img{
+  height: 750px;
+  width: 100%;
+}
+button{
+  color:black;
+  background-color:forestgreen;
+}
+.lin{
+  position: absolute;
+  top:90%;
+  height: 50px;
+  width: 200px;
+}
+a:link
+{
+  color:black;
+}

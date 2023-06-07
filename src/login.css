@@ -1,0 +1,28 @@
+h4{
+    color:black;
+    background-size: 200px;
+    background-color: aliceblue;
+}
+h3{
+    background-color: green;
+    color:black;
+}
+.box1{
+    position: absolute;
+    left: 30%;
+    top: 700%;
+    padding-top: 700px;
+}
+.madhu1{
+    background-image: url('./photo/caproject.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+    padding-top: 90px;
+}
+.sin
+{
+    position: center;
+    top:70%;
+    height: 50px;
+    width: 200px;
+}
